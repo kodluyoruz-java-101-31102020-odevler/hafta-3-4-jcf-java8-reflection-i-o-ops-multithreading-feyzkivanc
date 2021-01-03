@@ -1,0 +1,20 @@
+
+
+
+
+ArrayList
+-Dinamik bir dizi ile çalýþýr.
+-Rastgele bir eriþim saðlar yani tüm liste boyunca yineleme olmadan
+Arrayde daha önce belirlenen elementi bulur.
+-Veri saklamak ve veri eriþiminin yoðun olduðu durumlarda
+Arraylist kullanýlýr.
+
+
+
+
+Linkedlist
+-Birinci elemandan aramaya baþlar ve aradýðý elementi bulana 
+kadar birer birer ilerler.
+-Çift yönlü bir dizi ile çalýþýr.
+-Veri kümesine yoðun bir þekilde eleman ekleme ve çýkarma yapýlacaksa 
+Linkedlist kullanýlmalýdýr. 
